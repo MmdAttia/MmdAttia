@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Muhammad Attia (@MmdAttia). I'm a Senior Business Intelligence Analyst.
+- 👋 Hi, I’m Muhammad Aly (@MmdAttia). I'm a Senior Business Intelligence Analyst.
 - 👀 I’m interested in Python's (Pandas, NumPy, SciPy, Matplotlib and Seaborn) & SQL. 
 - 📫 MuhammadAttia@Outlook.com
 
